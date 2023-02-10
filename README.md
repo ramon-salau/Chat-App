@@ -3,7 +3,7 @@ A real-time chat application using ASP.Net Web API, WPF &amp; SignalR. Available
 
 ## Features
 * Group chat
-* Private chat `/private(Name) Hello, how are you?`
+* Private chat
 * Photo message
 * Basic Emojis
 * Chat Rooms
